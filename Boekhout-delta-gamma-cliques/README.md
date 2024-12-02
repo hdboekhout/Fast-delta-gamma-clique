@@ -8,7 +8,7 @@ Fast maximal clique enumeration in weighted temporal networks. Hanjo D. Boekhout
 
 ```
 
-Please cite the above paper when used.
+Please cite the above paper when using this code.
 
 ## Usage
 
@@ -27,5 +27,10 @@ For example:
 ...
 ```
 means that at timestamp 1 nodes 2 and 3 are connected with a weight of 1; and nodes 4 and 3 with a weight of -1. Note that if weighted is False triplets may be used. Furthermore, note that weights may be negative.
+
+The code can be run on test cases by using
+```
+python3 TestClique.py
+```
 
 The code was last tested using Python 3.12.3.
