@@ -505,7 +505,7 @@ class CliqueMaster:
         t = int(contents[0])
         u = int(contents[1])
         v = int(contents[2])
-        w = int(contents[3])
+        w = float(contents[3])
 
         link = frozenset([u, v])
         self._times[link].append(t)
