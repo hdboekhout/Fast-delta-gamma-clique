@@ -1,9 +1,19 @@
 # Maximal ($\delta,\gamma$)-clique enumeration
 
-This repository contains the code used to produce the results presented in:
+This repository contains the code used to produce the results presented in: [Fast maximal clique enumeration in weighted temporal networks.
+](https://doi.org/10.1007/s13278-025-01539-3) by Hanjo D. Boekhout and Frank W. Takes. The use of this code can be cited using:
 
 ```
-Fast maximal clique enumeration in weighted temporal networks. Hanjo D. Boekhout and Frank W. Takes, to appear.
+@article{boekhout2026fast,
+  title={Fast maximal clique enumeration in weighted temporal networks},
+  author={Boekhout, Hanjo D and Takes, Frank W},
+  journal={Social Network Analysis and Mining},
+  volume={16},
+  number={1},
+  pages={10},
+  year={2026},
+  publisher={Springer}
+}
 
 ```
 
